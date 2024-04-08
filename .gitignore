@@ -1,0 +1,5 @@
+*.o
+fib
+.vscode
+*.out
+/main.dSYM
